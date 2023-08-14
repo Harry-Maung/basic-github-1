@@ -1,2 +1,3 @@
 # basic-github-1
-lesson folder for Basic Github 
+lesson folder for Basic GitHub 
+## About the course
